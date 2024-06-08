@@ -1,0 +1,92 @@
+.main{
+    background-image: url("https://img.freepik.com/free-photo/beautiful-tropical-beach-sea-ocean-with-white-cloud-blue-sky-copyspace_74190-8663.jpg?size=626&ext=jpg&ga=GA1.1.1395880969.1709769600&semt=sph");
+    background-size: cover;
+    
+}
+.tourism-card{
+   color:black;
+   background-color: white;
+   padding :5px;
+  text-align:center;
+  border-radius: 20px;
+}
+.button{
+    color:black;
+    background-color: blue;
+    border-radius:10px;
+    
+}
+.Favourite-place-bg-container{
+    background-image: url("https://img.freepik.com/free-photo/wat-arun-temple-twilight-bangkok-thailand_335224-772.jpg?size=626&ext=jpg&ga=GA1.1.942144709.1709801631&semt=sph");
+    background-size:cover;
+    height:100vh;
+}
+.Favourite-place-heading{
+    color:white;
+    margin-left: 20px;
+    font-weight:bold;
+    font-size:28px;
+    padding:20px;
+}
+.favourite-place-card-container{
+    color:black;
+    padding:16px;
+    background-color:white;
+    border-radius:8px;
+    margin:15px;
+    
+}
+.favourite-place-card-heading{
+    color:black;
+    font-weight:bold;
+    font-size:23px;
+}
+.favourite-place-card-matter{
+    font-size:13px;
+    color:#6c6b70;
+}f
+.image{
+     height:100px;
+     width:80px;
+
+}
+.bg-contanier{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/seabg.png");
+    background-size: cover;
+    height:100vh;
+}
+ .main-heading{
+
+    font-family:"Roboto" ;
+
+      color:black;
+      padding:10px;
+      font-size:28px;
+      font-weight: bold;
+}
+ .detailed-view-card-container{
+    background-color: white;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+    margin:24px;
+
+}
+.detailed-view-card-heading{
+    color:#0f0e46;
+    font-family:"Roboto" ;
+    font-weight:bold;
+    font-size:23px;
+
+}
+.detailed-view-card-description{
+font-family:"Roboto";
+font-size:13px;
+color:#6c6b70;
+
+}
+.detailed-view-text-contanier{
+    padding:16px;
+}
+
+
+
